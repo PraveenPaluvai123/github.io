@@ -15,33 +15,33 @@
   <body>
     <table id="cal" border="1">
       <tr>
-        <th>SI NO</th>
+        <th>Sl NO</th>
         <th>Name</th>
-        <th>ROLL NO</th>
+        <th>Roll No</th>
         <th>Mark in subject1</th>
         <th>Mark in subject2</th>
         <th>Mark in subject3</th>
       </tr>
       <tr>
         <td>1</td>
-        <td>JHON</td>
-        <td>115</td>
-        <td>85</td>
-        <td>92</td>
-        <td>95</td>
+        <td>John</td>
+        <td>113</td>
+        <td>89</td>
+        <td>89</td>
+        <td>75</td>
       </tr>
 
       <tr>
-        <td>1</td>
+        <td>2</td>
         <td>Sai</td>
-        <td>111</td>
-        <td>75</td>
-        <td>82</td>
-        <td>98</td>
+        <td>115</td>
+        <td>80</td>
+        <td>90</td>
+        <td>100</td>
       </tr>      
       
     </table>
-    <button onclick="fun" value="96">ClickMe</button>
+    <button onclick="fun" value="100">ClickMe</button>
    
   </body>
 
