@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>
+Welcome to VIT-AP
+</title>
+</head>
+<body>
+Praveen
+<br><br>
+<font color="aqua">Praveen</font>
+<br><br>
+<font color="red">1</font>
+<font color="aqua">2</font>
+<font color="green">3</font>
+<font color="gray">4</font>
+<font color="brown">5</font>
+<font color="purple">6</font>
+<font color="pink">7</font>
+<font color="orange">8</font>
+<font color="yellow">9</font>
+<font color="violet">10</font>
+<br><br>
+<font face="calibri">D.Dinesh</font>
+<br><br>
+<p>
+<font face="Courier New">
+Hypertext Markup Language (HTML) is the standard markup language for documents designed to be
+displayed in a web browser.
+It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages
+such as JavaScript.
+</font>
+<font face="Times New Roman">
+Web browsers receive HTML documents from a web server or from local storage and render the
+documents into multimedia web pages.
+HTML describes the structure of a web page semantically and originally included cues for the
+appearance of the document.
+
+</font>
+<font face="Helvetica">
+HTML elements are the building blocks of HTML pages. With HTML constructs,
+images and other objects such as interactive forms may be embedded into the rendered page.
+HTML provides a means to create structured documents by denoting structural semantics for text
+such as headings,
+paragraphs, lists, links, quotes and other items
+</font>
+<font face="Georgia">
+HTML elements are delineated by tags, written using angle brackets.
+Tags such as <img /> and <input /> directly introduce content into the page.
+Other tags such as <p> surround and provide information about document text and may include</p>
+</font>
+</body>
+</html>
