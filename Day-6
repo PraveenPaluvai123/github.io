@@ -1,0 +1,48 @@
+<html>
+<head><title>Practise</title>
+  <script type="text/javascript">
+    function fun(){
+    
+    var change=document.getElementById("cal").value;
+      document.writeln(var);
+    
+        }
+    }
+  </script>
+  
+
+</head>
+  <body>
+    <table id="cal" border="1">
+      <tr>
+        <th>SI NO</th>
+        <th>Name</th>
+        <th>ROLL NO</th>
+        <th>Mark in subject1</th>
+        <th>Mark in subject2</th>
+        <th>Mark in subject3</th>
+      </tr>
+      <tr>
+        <td>1</td>
+        <td>JHON</td>
+        <td>115</td>
+        <td>85</td>
+        <td>92</td>
+        <td>95</td>
+      </tr>
+
+      <tr>
+        <td>1</td>
+        <td>Sai</td>
+        <td>111</td>
+        <td>75</td>
+        <td>82</td>
+        <td>98</td>
+      </tr>      
+      
+    </table>
+    <button onclick="fun" value="96">ClickMe</button>
+   
+  </body>
+
+</html>
