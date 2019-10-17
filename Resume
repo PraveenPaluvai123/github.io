@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>
+resume 
+</title>
+</head>
+<body>
+	<h2><center><u>NAME:</u>Praveen</center></h2><hr>
+	<p><strong><h2>Addrees:</h2></strong>E-902,<br>Jal Vayu Towers<br>Kavadiguda<br>Telangana<br>
+	<strong>Contact NO:</strong>7036953734</p>
+	<hr>
+	<p> <strong><h2>Qualification:</h2></strong>Btech at VIT-AP(2017) <br>intermediate-Bhashyam  collage<br></p>
+    <hr>
+    <p><strong><h2>Skillset:</h2></strong>c,java,python</p>
+    <hr>
+	<p><strong><h2>Projects:</h2></strong>1.PIR and LDR based light control </p><hr>
+	<p><strong><h2>Personal:</h2></strong>
+  Name:Praveen.P<br>
+  Sex:Male
+		<br>Age:21
+    <br>DOB:05-12-1998</p><hr>
+	<p><strong><h2>Declaration:</h2></strong>I hereby strongly believe that the information provided is true to my knowledge and correct.</p>
+	</body>
+</html>
