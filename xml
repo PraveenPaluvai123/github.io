@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl "href="Rule.xsl" ?> 
+<student> 
+  <s> 
+  <name> Shashi </name> 
+   <branch> CSE</branch> 
+   <age>18</age> 
+   <city> Chennai</city> 
+  </s> 
+  <s> 
+   <name> Souarav</name> 
+   <branch> CSE</branch> 
+   <age> 19</age> 
+   <city> Coimbatore </city> 
+  </s> 
+  <s>  
+  <name> Tejasvee</name> 
+ <branch> ECE</branch> 
+ <age> 19</age> 
+  <city> Delhi</city> 
+  </s> 
+  <s>  
+   <name> Hitarth</name> 
+   <branch> CSE</branch> 
+   <age> 19</age> 
+   <city> Mumbai</city> 
+  </s> 
+  <s>  
+   <name> Bindu</name> 
+   <branch> CSE</branch> 
+
+   <age> 19</age> 
+
+   <city> Vijayawada</city> 
+</s> 
+  </student> 
+ Rule.xsl
+ <?xml version="1.0" encoding="UTF-8"?> 
+<xsl:stylesheet version="1.0" 
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform"> 
+<xsl:template match="/"> 
+<html> 
+<body> 
+ <h1 align="center">Students' Basic Details</h1> 
+ <table border="3" align="left" > 
+ <tr> 
+ <th>Name</th> 
+ <th>Branch</th> 
+  <th>Age</th> 
+  <th>City</th> 
+   </tr> 
+   <xsl:for-each select="student/s"> 
+    <tr> 
+   <td><xsl:value-of select="name"/></td> 
+    <td><xsl:value-of select="branch"/></td> 
+    <td><xsl:value-of select="age"/></td> 
+    <td><xsl:value-of select="city"/></td> 
+   </tr> 
+    </xsl:for-each> 
+    </table> 
+</body> 
+</html> 
+</xsl:template> 
+</xsl:stylesheet>
