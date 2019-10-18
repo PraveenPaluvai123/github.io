@@ -20,7 +20,7 @@ Praveen
 <font color="yellow">9</font>
 <font color="violet">10</font>
 <br><br>
-<font face="calibri">D.Dinesh</font>
+<font face="calibri">Praveen</font>
 <br><br>
 <p>
 <font face="Courier New">
@@ -36,7 +36,7 @@ HTML describes the structure of a web page semantically and originally included 
 appearance of the document.
 
 </font>
-<font face="Helvetica">
+<font face="Georgia">
 HTML elements are the building blocks of HTML pages. With HTML constructs,
 images and other objects such as interactive forms may be embedded into the rendered page.
 HTML provides a means to create structured documents by denoting structural semantics for text
